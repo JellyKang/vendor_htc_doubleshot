@@ -106,6 +106,5 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
   vendor/htc/doubleshot/proprietary/lib/libgsl.so:system/lib/libgsl.so \
   vendor/htc/doubleshot/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
-  vendor/htc/doubleshot/proprietary/lib/hw/lights.doubleshot.so:system/lib/hw/lights.doubleshot.so \
   vendor/htc/doubleshot/proprietary/lib/hw/sensors.doubleshot.so:system/lib/hw/sensors.doubleshot.so \
   vendor/htc/doubleshot/proprietary/lib/hw/gps.doubleshot.so:system/lib/hw/gps.doubleshot.so
